@@ -1,4 +1,4 @@
-module github.com/hansmi/wp2reg-luxws
+module github.com/ppetr/wp2reg-luxws
 
 go 1.19
 
