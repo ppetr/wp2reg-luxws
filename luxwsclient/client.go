@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/hansmi/wp2reg-luxws/luxws"
+	"github.com/ppetr/wp2reg-luxws/luxws"
 	"golang.org/x/net/html/charset"
 )
 

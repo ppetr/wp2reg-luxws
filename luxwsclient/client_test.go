@@ -11,7 +11,7 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 	"github.com/gorilla/websocket"
-	"github.com/hansmi/wp2reg-luxws/luxws"
+	"github.com/ppetr/wp2reg-luxws/luxws"
 )
 
 func TestResponseUnmarshalIgnore(t *testing.T) {

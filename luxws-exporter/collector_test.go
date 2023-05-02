@@ -13,8 +13,8 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
-	"github.com/hansmi/wp2reg-luxws/luxwsclient"
-	"github.com/hansmi/wp2reg-luxws/luxwslang"
+	"github.com/ppetr/wp2reg-luxws/luxwsclient"
+	"github.com/ppetr/wp2reg-luxws/luxwslang"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/testutil"
 )

@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hansmi/wp2reg-luxws/luxwsclient"
-	"github.com/hansmi/wp2reg-luxws/luxwslang"
+	"github.com/ppetr/wp2reg-luxws/luxwsclient"
+	"github.com/ppetr/wp2reg-luxws/luxwslang"
 	"github.com/prometheus/client_golang/prometheus"
 	"go.uber.org/multierr"
 	"golang.org/x/sync/errgroup"

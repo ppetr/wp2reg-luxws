@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/alecthomas/kingpin/v2"
-	"github.com/hansmi/wp2reg-luxws/luxwslang"
+	"github.com/ppetr/wp2reg-luxws/luxwslang"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/collectors"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
